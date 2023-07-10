@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Being serious : it's me and my life</title>
+
+	<link rel="stylesheet" href="ria.css">
+	<script src="ria.js"></script>
+</head>
+<body  >
+	<h2>ria</h2>
+	<p>new<br/> <strong>this <em>this is emphasised</em> is bold</strong> para</p>
+<!-- br line break -->
+<!-- hr horizontal rule -->
+	<a href="https://google.com" target="_blank">go to google</a><br>
+	<a href="https://linkedin.com">go to linked in</a>
+	<img src="" alt="slow internet or error loading image">
+	<ul type="disc">
+		<table>
+			<thead>
+				<tr>
+					<td>
+
+					</td>
+					<td>
+
+					</td>
+					
+				</tr>
+				<tr>
+
+				</tr>
+				
+			</thead>
+		</table>
+
+	</ul>
+	<ol>
+
+	</ol>
+	<forms acttion="backend.php">
+		<div>
+			Name: <input type="text" name="MyName"> 
+		</div>
+		<hr>
+		<div>
+			role: <input type="number" name="MyEmail">
+		</div>
+		<div>
+			submit:<input type="" value="Submit">
+		</div>
+		<div>
+			gender:male<input type="radio" name="M" > female<input type="radio" name="M" >
+		</div>
+		<div>
+			reset:<input type="reset">
+		</div>
+
+	</forms>
+</body>
+</html>  
